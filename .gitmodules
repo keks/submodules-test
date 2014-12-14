@@ -1,0 +1,3 @@
+[submodule "bencode"]
+	path = bencode
+	url = git@github.com:keks/bencode.git
